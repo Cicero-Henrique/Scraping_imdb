@@ -4,7 +4,7 @@ certifi==2020.6.20
 chardet==3.0.4
 html5lib==1.1
 idna==2.10
-mechanize==0.4.5
+mechanize==0.4.6
 numpy==1.19.0
 pandas==1.0.5
 python-dateutil==2.8.1
